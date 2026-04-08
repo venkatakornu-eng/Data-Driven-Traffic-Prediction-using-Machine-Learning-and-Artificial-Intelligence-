@@ -72,7 +72,16 @@ Developed an AI-based system that:
 
 ## 📷 Visualizations
 (Add your screenshots here)
+### MLP Model
+![Traffic Trend](Images/MLP.png)
 
-```markdown
-![Traffic Trend](images/traffic_trend.png)
-![Model Prediction](images/prediction.png)
+The root mean squared error is 0.17873297044298198.
+
+The MAE is 0.11349030058948516.
+
+### LSTM Model
+![Model Prediction](Images/LSTM.png)
+
+The root mean squared error is 0.18149149392219652.
+
+The MAE is 0.11424274243427829.
